@@ -1,61 +1,59 @@
 {
-	"workouts": [
-		{
-			"name": "Ab Ripper X",
-			"activities": [
-				{
-					"name": "in & out",
-					"reps": 25
-				},
-				{
-					"name": "bicycle",
-					"reps": 25
-				},
-				{
-					"name": "bicycle R",
-					"reps": 25
-				},
-				{
-					"name": "crunchy frog",
-					"reps": 25
-				},
-				{
-					"name": "situps",
-					"reps": 25
-				},
-				{
-					"name": "feifer scisors",
-					"reps": 5
-				},
-				{
-					"name": "butt raises",
-					"reps": 25
-				},
-				{
-					"name": "pulse ups",
-					"reps": 25
-				},
-				{
-					"name": "oblique v-ups R",
-					"reps": 25
-				},
-				{
-					"name": "oblique v-ups L",
-					"reps": 25
-				},
-				{
-					"name": "mountain climbs R",
-					"reps": 12
-				},
-				{
-					"name": "mountain climbs L",
-					"reps": 12
-				},
-				{
-					"name": "mason twist",
-					"reps": 20
-				}
-			]
-		}
-	]
+	"workout": {
+		"name": "Ab Ripper X",
+		"activities": [
+			{
+				"name": "in & out",
+				"reps": 25
+			},
+			{
+				"name": "bicycle",
+				"reps": 25
+			},
+			{
+				"name": "bicycle R",
+				"reps": 25
+			},
+			{
+				"name": "crunchy frog",
+				"reps": 25
+			},
+			{
+				"name": "situps",
+				"reps": 25
+			},
+			{
+				"name": "feifer scisors",
+				"reps": 5
+			},
+			{
+				"name": "butt raises",
+				"reps": 25
+			},
+			{
+				"name": "pulse ups",
+				"reps": 25
+			},
+			{
+				"name": "oblique v-ups R",
+				"reps": 25
+			},
+			{
+				"name": "oblique v-ups L",
+				"reps": 25
+			},
+			{
+				"name": "mountain climbs R",
+				"reps": 12
+			},
+			{
+				"name": "mountain climbs L",
+				"reps": 12
+			},
+			{
+				"name": "mason twist",
+				"reps": 20
+			}
+		]
+	}
 }
