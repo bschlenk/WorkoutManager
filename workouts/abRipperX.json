@@ -24,7 +24,7 @@
 			},
 			{
 				"name": "feifer scisors",
-				"reps": 5
+				"reps": 25
 			},
 			{
 				"name": "butt raises",
@@ -33,6 +33,10 @@
 			{
 				"name": "pulse ups",
 				"reps": 25
+			},
+			{
+				"name": "v-up rollups",
+				"reps": 24
 			},
 			{
 				"name": "oblique v-ups R",
@@ -52,7 +56,7 @@
 			},
 			{
 				"name": "mason twist",
-				"reps": 20
+				"reps": 40
 			}
 		]
 	}

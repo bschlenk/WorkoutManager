@@ -1,0 +1,13 @@
+{
+	"workout": {
+		"name": "Shoulders & Arms",
+		"activities": [
+			{
+				"name": "Alternating Shoulder Press"
+			},
+			{
+				"name": "In & Out Bicep Curl"
+			}
+        ]
+    }
+}
